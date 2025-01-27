@@ -1,0 +1,13 @@
+##
+**Introduction:**
+Identify the important ceneters of profit and loss for the superstore.
+
+**Objectives:**
+1. Among the pairs of dimensions which 2 are the biggest profit centers and which 2 are the biggest loss centers.
+2. Which products should the superstore stop selling?
+3. Which product subcategories should the store focus on and which should they stop selling? Choose 3 of each.
+
+**Findings & Recommendations:**
+1. The top 2 pairs with the highest profits are West $35,293 and South $13,363. The bottom 2 pairs with the lowest profits are Central $-20,585 and East $-12,073.
+2. The bottom 4 products have a sum profit of $-39,050 which is more than the sum profit of the top selling product at $38,640.
+3. The subcategories to focus on are copiers, phones, and accessories. The subcategories to stop selling are tables, bookcases, and supplies.
