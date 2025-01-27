@@ -1,0 +1,12 @@
+Introduction:
+In the last part, we’ll use the Returns table to see if some products have abnormal rates of being returned to the store.
+
+Objectives:
+1. Which products have the highest return rate?
+2. Which customers have the highest return rate?
+3. Present a visual argument why the superstore should do away with or keep doing business on the basis of this dimension.
+
+Finding & Recommendations:
+1. There are 8 products with 100% return rate. Consider discontinuing those products. All other products listed have return rates of more than 7% and should be considered for discontinuation as well.
+2. Roland Murray and Hilary Holden bothe at return rates of 100%. Consider customer incentives to promote product/brand satisfaction.
+3. Oregon, Tennessee, Colorado, Arizona, Ohio, Florida, Pennsylvania, Illinois, and Texas all have average profits below $0. Oregon, Tennessee, Colorado, Arizona, and Ohio have high return rates and should be considered to stop doing business.
