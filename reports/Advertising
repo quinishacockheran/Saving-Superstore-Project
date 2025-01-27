@@ -1,7 +1,7 @@
 Introduction:
 The superstore wants to know if advertising would be worth it. Advertising works over time and geography, and your average profit per unit sold should be high enough to justify it.
 
-Objecttives:
+Objectives:
 1. Identify the 3 best combinations of states and month of the year to advertise in.
 2. Make a visualization of the average profit for each month of the year for those 3 states and argue how much you would be willing to pay in advertising for those states in those months.
 
